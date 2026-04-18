@@ -1,12 +1,12 @@
 {
-  "export_job_id": "04c00e29-11f9-4eb6-819f-a9b97ffda3a9",
+  "export_job_id": "84004a00-61bc-44d1-996d-f53bbaa263e1",
   "id_short": 947279,
-  "published_at": "2026-04-15T19:06:25Z",
+  "published_at": "2026-04-18T07:15:56Z",
   "repo_name": "all-restaurants-in-lakeland-winter-haven-metro-florida-us-sample-947279",
   "sample_asset_name": "beamstation_947279_restaurants-us-lakelandwinterhavenfl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/947279/beamstation_947279_restaurants-us-lakelandwinterhavenfl_SAMPLE_DIST.csv",
   "sample_records": 73,
   "sample_sha256": "96777c4ba05995f24749d970db6642e3192b6ec8340a4d56585a87688da189e3",
   "sample_size_bytes": 270965,
-  "total_records": 652
+  "total_records": 734
 }
