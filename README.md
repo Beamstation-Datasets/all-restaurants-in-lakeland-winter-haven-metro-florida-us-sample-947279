@@ -1,6 +1,6 @@
 # All Restaurants in Lakeland-Winter Haven (Metro), Florida, US
 
-> Free BeamStation sample export with 73 rows and masked direct-contact fields.
+> Free BeamStation sample export with 49 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `947279` |
 | Location | Lakeland-Winter Haven, FL |
 | Category | Restaurants |
-| Full dataset size | 734 records |
-| Free sample size | 73 records (9.95%) |
-| Last export | 2026-04-14T16:48:01.153948+00:00 |
+| Full dataset size | 497 records |
+| Free sample size | 49 records (9.86%) |
+| Last export | 2026-04-21T18:19:04.069239+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lakeland-winter-haven-metro-florida-us-sample-947279/releases/download/sample-latest/beamstation_947279_restaurants-us-lakelandwinterhavenfl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
